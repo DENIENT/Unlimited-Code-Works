@@ -1,0 +1,31 @@
+﻿  源.cpp
+C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\数值微分算法.h(17,16): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\数值微分算法.h(18,16): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\数值微分算法.h(22,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\数值微分算法.h(25,21): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\数值微分算法.h(34,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\数值微分算法.h(35,12): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\数值微分算法.h(44,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\数值微分算法.h(45,13): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\界面设计.h(25,22): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+  (编译源文件“源.cpp”)
+  
+  可视化实习.vcxproj -> C:\Users\86138\Desktop\Unlimited-Code-Works-main\李四光学院遥感2025可视化实习\代码文件\x64\Debug\可视化实习.exe
+  'pwsh.exe' 不是内部或外部命令，也不是可运行的程序
+  或批处理文件。
